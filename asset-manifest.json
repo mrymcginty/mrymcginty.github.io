@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a0020a5.chunk.css",
-    "main.js": "/static/js/main.a0c70fd6.chunk.js",
-    "main.js.map": "/static/js/main.a0c70fd6.chunk.js.map",
+    "main.css": "/static/css/main.baf35972.chunk.css",
+    "main.js": "/static/js/main.333b4b6c.chunk.js",
+    "main.js.map": "/static/js/main.333b4b6c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.22109dd6.js",
     "runtime-main.js.map": "/static/js/runtime-main.22109dd6.js.map",
     "static/js/2.bedafaff.chunk.js": "/static/js/2.bedafaff.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3ef089fc.chunk.js": "/static/js/3.3ef089fc.chunk.js",
     "static/js/3.3ef089fc.chunk.js.map": "/static/js/3.3ef089fc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5a0020a5.chunk.css.map": "/static/css/main.5a0020a5.chunk.css.map",
+    "static/css/main.baf35972.chunk.css.map": "/static/css/main.baf35972.chunk.css.map",
     "static/js/2.bedafaff.chunk.js.LICENSE.txt": "/static/js/2.bedafaff.chunk.js.LICENSE.txt",
     "static/media/google-pixel-5.a8fd1f11.png": "/static/media/google-pixel-5.a8fd1f11.png",
     "static/media/macbook-air.d1aad9fe.svg": "/static/media/macbook-air.d1aad9fe.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.22109dd6.js",
     "static/js/2.bedafaff.chunk.js",
-    "static/css/main.5a0020a5.chunk.css",
-    "static/js/main.a0c70fd6.chunk.js"
+    "static/css/main.baf35972.chunk.css",
+    "static/js/main.333b4b6c.chunk.js"
   ]
 }
