@@ -1,4 +1,0 @@
-# For confidentiality purposes, I am disallowing all crawling of this site.
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow: /
